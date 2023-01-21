@@ -1,4 +1,4 @@
 # git-practice
-縺薙�ｮ繝ｪ繝昴ず繝医Μ縺ｯGit蜍慕判隰帛ｺｧ逕ｨ縺ｧ縺呻ｼ始ewfile菴懈�心
+このリポジトリはGit動画講座用です．newfile作成S
 
-new-feature繝悶Λ繝ｳ繝√〒螟画峩
+no-fast-forwordでブランチで変更
