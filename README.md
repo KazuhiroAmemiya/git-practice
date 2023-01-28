@@ -1,5 +1,4 @@
 # git-practice
-このリポジトリはGit動画講座用です．newfile作成S
+縺薙�ｮ繝ｪ繝昴ず繝医Μ縺ｯGit蜍慕判隰帛ｺｧ逕ｨ縺ｧ縺呻ｼ始ewfile菴懈�心
 
-conflictブランチで変更
->>>>>>> conflict
+github荳翫〒譖ｴ譁ｰ
